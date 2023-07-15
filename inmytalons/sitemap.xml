@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://www.inmytalons.live/</loc>
+	<lastmod>2023-07-15</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>https://www.inmytalons.live/img/ecjvs_256_upscayl_16x_ultramix_balanced.jpg</image:loc>
+	<image:title>ecjvs_256_upscayl_16x_ultramix_balanced</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.inmytalons.live/img/ecjvs_256_upscayl_16x_ultramix_balanced.webp</image:loc>
+	<image:title>ecjvs_256_upscayl_16x_ultramix_balanced</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.inmytalons.live/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://www.inmytalons.live/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
