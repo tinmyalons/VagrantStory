@@ -190,6 +190,10 @@ button{
 
 
 
+/*  Image Protection */
+.img-protected{
+	-webkit-touch-callout: none;
+}
 
 
 

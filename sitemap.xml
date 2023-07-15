@@ -5,10 +5,10 @@
 	<lastmod>2023-07-15</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
-	<video:video>
-	<video:content_loc>https://www.inmytalons.live/vid/video-placeholder.mp4</video:content_loc>
-	<video:title>video-placeholder</video:title>
-	</video:video>
+	<image:image>
+	<image:loc>https://www.inmytalons.live/img/tunnel%203.webp</image:loc>
+	<image:title>tunnel 3</image:title>
+	</image:image>
 	<image:image>
 	<image:loc>https://www.inmytalons.live/img/</image:loc>
 	<image:title>Twitter Social Card Image</image:title>
